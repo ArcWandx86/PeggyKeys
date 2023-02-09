@@ -16,4 +16,4 @@ Break some keys? Here's help.
 | `(` | `alt`+`shift`+`8` |
 
 ## On-screen keyboard
-To toggle the onscreen keyboard, use `win`+`alt`+k.
+To toggle the onscreen keyboard, use `win`+`alt`+`k`.
