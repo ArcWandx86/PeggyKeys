@@ -10,3 +10,6 @@
 !+,::>
 !8::9
 !+8::(
+
+; Open on-screen keyboard
+#!k::#^o
